@@ -62,7 +62,6 @@ public class BOJ2493 { // 탑
         sb.append(maxIdx + " ");
       }
     }
-
     System.out.println(sb.toString());
   }
 
