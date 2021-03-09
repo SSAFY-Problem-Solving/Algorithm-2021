@@ -36,7 +36,7 @@ public class N15686 {
 		}
 		dist = new int[houseList.size()][storeList.size()];
 		setDist();
-		System.out.println(perm(0, 0));
+		System.out.println(comb(0, 0));
 	}
 	
 	private static void setDist() {
@@ -49,7 +49,7 @@ public class N15686 {
 		}
 	}
 	
-	private static int perm(int idx, int cnt) {
+	private static int comb(int idx, int cnt) {
 		int min = Integer.MAX_VALUE;
 		
 		if(cnt > 0) min = calDist(cnt);
@@ -57,7 +57,7 @@ public class N15686 {
 		
 		for(int nextIdx = idx; nextIdx < storeList.size(); nextIdx++) {
 			selected[cnt] = nextIdx;
-			min = Math.min(min, perm(nextIdx+1, cnt+1));
+			min = Math.min(min, comb(nextIdx+1, cnt+1));
 		}
 				
 		return min;
