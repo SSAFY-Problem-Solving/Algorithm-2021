@@ -12,7 +12,7 @@
 
 ## :grinning: ​참가자
 
-- [고재석](https://github.com/), [류건희](https://github.com/RGunny), [배상웅](https://github.com/BaeSangUng), [성진옥](https://github.com/wlsdhr0831), [이아름](https://github.com/AhreumLee), [정혜림](https://github.com/Hyelme), [차민석](https://github.com/meloncha)
+- [고재석](https://github.com/), [김다윤](https://github.com/daaaaaayoon), [류건희](https://github.com/RGunny), [박성호](https://github.com/solser12) [배상웅](https://github.com/BaeSangUng), [성진옥](https://github.com/wlsdhr0831), [이아름](https://github.com/AhreumLee), [정혜림](https://github.com/Hyelme), [차민석](https://github.com/meloncha)
 
 
 
